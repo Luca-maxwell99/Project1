@@ -1,10 +1,25 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+[Mental health logo](assets/images/icons8-mental-health-100.png)
 
-# This template has been deprecated
+Link to live site - https://luca-maxwell99.github.io/Mental-health-awareness/
 
-Please use (and bookmark) this template instead: [CI Full Template](https://github.com/Code-Institute-Org/ci-full-template)
+# Mindful Moments 
 
-Any projects built using the old template will continue to work. For all new projects, please use the **CI Full Template**, which will be updated more frequently.
+Welcome to my Mindful moments website. The mission of this webapge is to provide resources, support, and information to help individuals understand and improve their mental health. Included are various related topics, a call to action, a form and a professional interview. I choose to do these things as it covers diffrent point of views of mental health  with the intension of helping a wide range of audiences. 
 
----
-Happy coding!
+ 
+
+## 
+
+Thank you for visiting our website and supporting Mental Health Awareness.
+
+
+
+## Credits
+
+Image sources
+
+https://www.psychowellnesscenter.com/Blog/coping-with-mental-health-issues
+
+https://darrenbaine.com/breaking-the-stigma-understanding-mental-health/
+
+https://peaceofmind4wellness.com/mental-health-matters-the-importance-of-seeking-professional-help/
