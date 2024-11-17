@@ -1,6 +1,6 @@
 [Mental health logo](assets/images/icons8-mental-health-100.png)
 
-Link to live site - 
+Link to live site - https://luca-maxwell99.github.io/Project1/
 
 # Mindful Moments 
 
