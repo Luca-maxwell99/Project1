@@ -25,6 +25,21 @@ Thank you for visiting our website and supporting Mental Health Awareness.
 
 ![Wireframe screenshot](/assets/images/Project1wireframe3.png)
 
+## User stories 
+
+I used Ai to generate my user stories and then processed them into a project board on Github. I approached copilot with varied prompts to ensure I could refine my results.
+
+![User stories](/assets/images/User%20stories.png)
+
+Here is my project board in use. 
+
+![project board for user stories](/assets/images/Project%20Board.png)
+
+
+## Validation
+
+## Technology used
+
 
 
 
