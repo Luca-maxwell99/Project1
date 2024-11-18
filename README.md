@@ -17,6 +17,11 @@ Due to some complicated problems I had during the assignment, I was unable to su
 Thank you for visiting our website and supporting Mental Health Awareness.
 
 
+## Wire frames 
+
+![wireframe screen shot](/assets/images/Project1wireframe1.png) 
+
+
 
 ## Credits
 
