@@ -38,9 +38,14 @@ Here is my project board in use.
 
 ## Validation
 
+I tested my page using W3C and NU html checker. One thing that I would do differently in future projects is valid early on. so you are constantly checking and then it doesnt build up. My CSS contained no errors, however my HTML contained around 8. I didnt not have time to sort these as I checked vailidity too late. 
+![CSS validation](/assets/images/CSS%20validation.png)
+![Html validation](/assets/images/html%20validation.png)
+
+
 ## Technology used
 
-
+I used a combination of HTML, CSS and the bootstrap library. I also used mircosoft copilot for content and some structure. 
 
 
 ## Credits
