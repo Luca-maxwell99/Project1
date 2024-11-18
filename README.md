@@ -8,6 +8,18 @@ Welcome to my Mindful moments website. The mission of this webapge is to provide
 
 Due to some complicated problems I had during the assignment, I was unable to submit and present with the rest of the class. I was aware that it was importatnt that i didnt push or commit any more work on that repo. So this is my resubbmisson for project 1.  
 
+## Contents
+
+-User stories 
+-Project board
+-Responsiveness
+-Wireframes
+-Validation
+-Technology used
+-Deployment
+-Credits
+
+
 ## User stories 
 
 I used Ai to generate my user stories and then processed them into a project board on Github. I approached copilot with varied prompts to ensure I could refine my results.
@@ -20,11 +32,11 @@ Here is my project board in use.
 ![project board for user stories](/assets/images/Project%20Board.png)
 
 
-## Reponsive
+## Responsiveness
 
 ![Am I responsive Screen shot](assets/images/AmIresponsive.png) 
 
-Thank you for visiting our website and supporting Mental Health Awareness.
+If I had more time I would have made it more responsive on mobile design. 
 
 
 ## Wire frames 
@@ -50,6 +62,11 @@ I tested my page using W3C and NU html checker. One thing that I would do differ
 ## Technology used
 
 I used a combination of HTML, CSS and the bootstrap library. I also used mircosoft copilot for content and some structure. 
+
+## Deployment
+
+I used Github pages to deploy this website.
+The live link - https://luca-maxwell99.github.io/Project1/
 
 
 ## Credits
