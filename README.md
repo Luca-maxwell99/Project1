@@ -21,6 +21,11 @@ Thank you for visiting our website and supporting Mental Health Awareness.
 
 ![wireframe screen shot](/assets/images/Project1wireframe1.png) 
 
+![wireframe screenshot](/assets/images/Screenshot%202024-11-18%20at%2008.44.28.png)
+
+![Wireframe screenshot](/assets/images/Project1wireframe3.png)
+
+
 
 
 ## Credits
