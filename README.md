@@ -10,14 +10,14 @@ Due to some complicated problems I had during the assignment, I was unable to su
 
 ## Contents
 
--User stories 
--Project board
--Responsiveness
--Wireframes
--Validation
--Technology used
--Deployment
--Credits
+1. User stories 
+2. Project board
+3. Responsiveness
+4. Wireframes
+5. Validation
+6. Technology used
+7. Deployment
+8. Credits
 
 
 ## User stories 
